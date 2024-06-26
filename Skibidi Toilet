@@ -1,4 +1,6 @@
-    "1960_CUTOUT_PRO_20M_TECH_022024": [
+````` real name `````
+
+"1960_CUTOUT_PRO_20M_TECH_022024": [
       {
         "email": "skibiditoilet2212@gmail.com",
         "lastip": "103.185.238.229",
@@ -103,6 +105,18 @@
         "id": "519079434789061",
         "created": "25/2/2024 20:39:40"
       }
+
+
+````` passwords `````
+{
+  "took": 35,
+  "size": 1,
+  "results": {
+    "0001_STEALERLOGS_NA_106M_MALWARE_2023": [
+      {
+        "username": "k1llerdude",
+        "password": "skibiditoilet",
+        "host": "https://panzer.quest/"
+      }
     ]
   }
-}
