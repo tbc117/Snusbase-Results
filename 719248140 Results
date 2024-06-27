@@ -1,31 +1,20 @@
-
-      "results": {
-    "0798_MYFITNESSPAL_COM_144M_FITNESS_022018": [
+{
+  "took": 69,
+  "size": 1,
+  "results": {
+    "0436_MPGH_NET_3M_GAMING_2015": [
       {
-        "username": "harj957",
-        "email": "harjyotdhanjal_5@yahoo.com",
-        "lastip": "75.142.250.89"
-      },
-      {
-        "username": "deantgriffin",
-        "email": "deantgriffin@gmail.com",
-        "lastip": "75.142.250.89"
-      }
-    ],
-    "0615_BLANKMEDIAGAMES_COM_8M_GAMING_2018": [
-      {
-        "username": "xxxAmIllegalxxx",
+        "username": "Zetth",
         "email": "maxknaefler@yahoo.com",
-        "lastip": "75.142.250.89",
-        "hash": "$H$9Lt6mzZcYXm28PpLYYmjk7j00lYpY9."
+        "lastip": "71.9.248.140",
+        "hash": "6f3343f90d2e4b081493f89a25550998",
+        "salt": "NayZ/EQ*1`$sr=.fK.LO_%R$DCI8B^"
       }
     ]
   }
 }
     
-    
     `````` Email ````````
-    "1656_JEFIT_COM_6M_FITNESS_082020": [
       {
         "username": "Zetth",
         "email": "maxknaefler@yahoo.com",
