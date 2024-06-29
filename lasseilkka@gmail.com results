@@ -1,0 +1,82 @@
+    "1716_RAIDFORUMS_COM_478K_SECURITY_092020": [
+      {
+        "username": "RaidForums",
+        "email": "lasseilkka@gmail.com",
+        "hash": "def50200c1218d73d45aaed7dae8f3740a4b70e7aa70edb2bf6c64ddb02a35fc1e9c2865fe55f01f918f7f56497d5c86250f36c794e1d54512bf753f4bbe85866ba3e12d38bc5f0be57ecdd444761c2f44ee988e0a905eafdb065edede7cea41caf42a404bbdae3e1255052d44646bc83f59aafa",
+        "salt": "g2CaUGqQ"
+      }
+    ],
+    "1669_VERIFICATIONS_IO_789M_MARKETING_022019": [
+      {
+        "email": "lasseilkka@gmail.com"
+      }
+    ],
+    "0992_COINMARKETCAP_COM_3M_CRYPTO_2021": [
+      {
+        "email": "lasseilkka@gmail.com"
+      }
+    ],
+    "0973_TUNNGLE_NET_8M_GAMING_2016": [
+      {
+        "username": "lasseilkka",
+        "email": "lasseilkka@gmail.com",
+        "lastip": "217.210.117.95",
+        "hash": "7995d7de1ce4e7183f7e76ee86b8ea56",
+        "salt": "C_Aun"
+      }
+    ],
+    "0814_MCBANS_COM_136K_GAMING_2020": [
+      {
+        "email": "lasseilkka@gmail.com",
+        "lastip": "217.210.117.95",
+        "uid": "10082709"
+      },
+      {
+        "email": "lasseilkka@gmail.com",
+        "uid": "10082708"
+      }
+    ],
+    "0813_ARMORGAMES_COM_11M_GAMING_012019": [
+      {
+        "username": "lasseilkka_1286",
+        "email": "lasseilkka@gmail.com",
+        "lastip": "194.71.153.201",
+        "hash": "438c5d32ca1735361c2626ca425b4c30ec99dac2",
+        "id": "11680088",
+        "uid": "754a6e5ce28245fd3386e0252afd6dfd"
+      }
+    ],
+    "0797_CANVA_COM_133M_DESIGN_052019": [
+      {
+        "username": "lasseilkka",
+        "email": "lasseilkka@gmail.com",
+        "name": "Namn Efternamn",
+        "id": "4260262"
+      }
+    ],
+    "0645_ZYNGA_COM_202M_GAMING_092019": [
+      {
+        "username": "MatiasI22",
+        "email": "lasseilkka@gmail.com",
+        "salt": "fa4780829191f2f8e3f05fb1ed133eee3238b626",
+        "created": "2019-01-20 15:06:45"
+      }
+    ],
+    "0395_TOTALJERKFACE_COM_6M_GAMING_2010": [
+      {
+        "username": "lasseilkka",
+        "email": "lasseilkka@gmail.com",
+        "uid": "3808365",
+        "regdate": "March 10, 2013"
+      }
+    ],
+    "0004_SHOTBOW_NET_1M_GAMING_052016": [
+      {
+        "username": "lasseilkka",
+        "email": "lasseilkka@gmail.com",
+        "hash": "1069883467e783b7e2d17aaccdd9941a8d156b611f23714f173829fee7b8c8ec",
+        "salt": "0bf2e1186f0924ba642661416e3b38adf21240dce62c87805a2095e265e6328f"
+      }
+    ]
+  }
+}
