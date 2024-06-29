@@ -1,0 +1,64 @@
+    "1802_GITHUB_COM_45M_TECH_072023": [
+      {
+        "username": "RaidForums",
+        "company": "RaidForums"
+      }
+    ],
+    "1716_RAIDFORUMS_COM_478K_SECURITY_092020": [
+      {
+        "username": "RaidForums",
+        "email": "lasseilkka@gmail.com",
+        "hash": "def50200c1218d73d45aaed7dae8f3740a4b70e7aa70edb2bf6c64ddb02a35fc1e9c2865fe55f01f918f7f56497d5c86250f36c794e1d54512bf753f4bbe85866ba3e12d38bc5f0be57ecdd444761c2f44ee988e0a905eafdb065edede7cea41caf42a404bbdae3e1255052d44646bc83f59aafa",
+        "salt": "g2CaUGqQ"
+      }
+    ],
+    "1671_FLIPD_GG_529K_HACKING_072022": [
+      {
+        "username": "Raidforums",
+        "email": "camilla@raidforums.com",
+        "lastip": "94.46.24.51",
+        "hash": "$argon2id$v=19$m=1048576,t=4,p=1$T0J2UHUuL09udjNYMVV4MA$amt0dXXmJTxm5lo0ZeGB3dBBosRhag2uJlqrASBPLsg",
+        "salt": "djLHvE5g"
+      }
+    ],
+    "1229_DOXBIN_ORG_51K_HACKING_012022": [
+      {
+        "username": "Raidforums",
+        "hash": "_binary 0x243279243130246647447064526d6b69492e6c614c59326e5a33686265536b7677726a5a757866553331655a73657965657473726957366e54535147",
+        "id": "51236",
+        "followers": "0"
+      }
+    ],
+    "1212_CPREWRITTEN_NET_1694K_GAMING_012018": [
+      {
+        "username": "RAIDFORUMS",
+        "email": "happyfaceguy49@gmail.com",
+        "hash": "$2y$05$jrp6XWVRQKPsD2KvqBuas.FDxT1CJcH275YeeiMDQiX4.mzWOt0qW",
+        "name": "RAIDFORUMS",
+        "uid": "502599",
+        "regdate": "1498607619"
+      }
+    ],
+    "1102_RAIDFORUMS_COM_594K_HACKING_062021": [
+      {
+        "username": "RaidForums",
+        "id": "339948"
+      }
+    ],
+    "0615_BLANKMEDIAGAMES_COM_8M_GAMING_2018": [
+      {
+        "username": "RaidForums",
+        "email": "moot@raid.lol",
+        "lastip": "76.0.84.251",
+        "hash": "$H$9GcszwyczTCMygzmCeLDchYtj.pg.x1"
+      }
+    ],
+    "0595_YOUNOW_COM_40M_SOCIAL_072017": [
+      {
+        "username": "raidforums",
+        "lastip": "108.61.123.77",
+        "name": "RaidForums "
+      }
+    ]
+  }
+}
