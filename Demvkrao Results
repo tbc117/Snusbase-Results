@@ -1,0 +1,37 @@
+    "1671_FLIPD_GG_529K_HACKING_072022": [
+      {
+        "username": "demvkrao",
+        "email": "demvkrao@gmail.com",
+        "lastip": "170.82.191.252",
+        "hash": "$argon2id$v=19$m=1048576,t=4,p=1$L0w1WDVBRFN4MXZQT3hzdg$7eDUETbwmjtpXkB5pnwl2JmiiKgNcXDG1RI92zDVib8",
+        "salt": "pX7B4aQO"
+      }
+    ],
+    "1102_RAIDFORUMS_COM_594K_HACKING_062021": [
+      {
+        "username": "demvkrao",
+        "id": "426238"
+      }
+    ],
+    "0945_OGUSERS_COM_331K_HACKING_042021": [
+      {
+        "username": "demvkrao",
+        "email": "demvkrao@gmail.com",
+        "lastip": "45.232.92.26",
+        "hash": "$argon2id$v=19$m=65536,t=4,p=1$RHBYdEZzQ3NCb0xMZC5XLg$mBIwB5EEZzqCea7fyBxUVAZdmZ7p0MRs6DFenY5CE20",
+        "salt": "UlWh88ER",
+        "uid": "308979",
+        "regdate": "1609535392"
+      }
+    ],
+    "0942_SIRHURT_NET_101K_GAMING_042021": [
+      {
+        "username": "demvkrao",
+        "email": "demvkrao@gmail.com",
+        "lastip": "0ed41dc4d624673e8576a63ede7dfaf3",
+        "hash": "5f0ed987a968144b5d82a7a9455cf176",
+        "date": "2021-03-05"
+      }
+    ]
+  }
+}
