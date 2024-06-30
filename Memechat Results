@@ -1,0 +1,55 @@
+    "1912_MEMECHAT_APP_8052K_SOCIAL_122022": [
+      {
+        "username": "memechat",
+        "email": "mobile.rishabh@gmail.com",
+        "uid": "37821"
+      }
+    ],
+    "1260_DEEZER_COM_240M_MUSIC_092019": [
+      {
+        "username": "memechat",
+        "email": "mary.plard@wanadoo.fr",
+        "name": "mary plard",
+        "city": "NANTES",
+        "country": "FR"
+      },
+      {
+        "username": "memechat",
+        "email": "marie_larvor@yahoo.fr",
+        "city": "PARIS",
+        "country": "FR",
+        "gender": "F"
+      }
+    ],
+    "0950_DAILYQUIZ_ME_12M_EDU_012021": [
+      {
+        "username": "memechat",
+        "lastip": "91.253.70.5",
+        "password": "telefonojaja",
+        "uid": "10463384",
+        "regdate": "2017-12-17 08:53:00\r"
+      }
+    ],
+    "0883_MCRESOLVER_PW_13M_GAMING_052016": [
+      {
+        "username": "Memechat",
+        "lastip": "99-197-5-60.cust.wildblue.net"
+      }
+    ],
+    "0645_ZYNGA_COM_202M_GAMING_092019": [
+      {
+        "username": "Memechat",
+        "email": "chatrymelinda@yahoo.com",
+        "salt": "4a0490065c9be9e98a9f6befde884e0245ef5a45",
+        "created": "2010-10-03 20:48:41"
+      }
+    ],
+    "0641_MYSPACE_COM_357M_SOCIAL_2008": [
+      {
+        "username": "memechat",
+        "email": "v_melinda_v@yahoo.com",
+        "hash": "356FF400D5BFF34B26571E50782E47D78A249401\r"
+      }
+    ]
+  }
+}
