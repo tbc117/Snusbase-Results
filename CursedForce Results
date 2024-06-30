@@ -1,0 +1,26 @@
+  "results": {
+    "1203_R2GAMES_COM_3773K_GAMING_082019": [
+      {
+        "username": "cursedforce",
+        "email": "2295731@mail.r2games.com"
+      }
+    ],
+    "0689_R2GAMES_COM_22M_GAMING_2015": [
+      {
+        "username": "cursedforce",
+        "email": "terraforce_numa@hotmail.com",
+        "lastip": "79.106.16.24",
+        "hash": "386d0b243160a38b7001d4d2cde2b14c",
+        "salt": "0Hl9g2"
+      }
+    ],
+    "0645_ZYNGA_COM_202M_GAMING_092019": [
+      {
+        "username": "CursedForce",
+        "email": "andyargueta2529@gmail.com",
+        "salt": "c1db8bf9db1ed6ad0946753f285f5383c02fc542",
+        "created": "2017-03-03 13:45:23"
+      }
+    ]
+  }
+}
