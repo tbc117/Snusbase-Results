@@ -1,0 +1,34 @@
+    "1600_CFIRE_MAILRU_13M_GAMING_082016": [
+      {
+        "username": "poproc1",
+        "email": "torivan@bk.ru",
+        "hash": "810843c207f4d326b85f4455e9b6faed",
+        "salt": "JD#",
+        "uid": "8368855"
+      }
+    ],
+    "0647_CFIRE_MAILRU_13M_GAMING_082018": [
+      {
+        "username": "poproc1",
+        "email": "torivan@bk.ru",
+        "hash": "810843c207f4d326b85f4455e9b6faed"
+      }
+    ],
+    "0645_ZYNGA_COM_202M_GAMING_092019": [
+      {
+        "username": "poproc1",
+        "email": "gosaints36@gmail.com",
+        "salt": "eb75366f51fb2d5c0004dfaad33f947594ace93f",
+        "created": "2011-11-26 08:59:43"
+      }
+    ],
+    "0433_IMESH_COM_51M_MUSIC_2013": [
+      {
+        "username": "poproc1",
+        "email": "poproc@hotmail.com",
+        "lastip": "163.150.137.68",
+        "hash": "e1f550a392c6059cdde542797f526c7033999809"
+      }
+    ]
+  }
+}
