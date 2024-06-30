@@ -1,0 +1,417 @@
+    "1809_PREDATORSTEALER_NA_2749K_MALWARE_20XX": [
+      {
+        "username": "demoi",
+        "password": "cat",
+        "host": "http://dnd.saakshisoftware.com/Account/Login"
+      },
+      {
+        "username": "demoi",
+        "password": "123456",
+        "host": "http://dnd.saakshisoftware.com/Account/Login.aspx"
+      },
+      {
+        "username": "demoi",
+        "password": "123456",
+        "host": "http://www.dnd.saakshisoftware.com/Account/Login.aspx"
+      }
+    ],
+    "1269_TWITTER_COM_227M_SOCIAL_012023": [
+      {
+        "username": "demoi",
+        "email": "chenchen.woo@gmail.com",
+        "name": "Chen WU",
+        "created": "Wed Dec 10 14:22:00 +0000 2008\r",
+        "followers": "2255"
+      },
+      {
+        "username": "demoi",
+        "email": "chenchen.woo@gmail.com",
+        "name": "Chen WU",
+        "created": "Wed Dec 10 14:22:00 +0000 2008\r",
+        "followers": "2256"
+      }
+    ],
+    "1260_DEEZER_COM_240M_MUSIC_092019": [
+      {
+        "username": "demoi",
+        "email": "vanessa.gorlini@orange.fr",
+        "name": "Vanessa Gorlini",
+        "country": "FR",
+        "gender": "F"
+      },
+      {
+        "username": "demoi",
+        "email": "demoiss73@hotmail.fr",
+        "city": "REIGNIER",
+        "country": "FR",
+        "gender": "M"
+      },
+      {
+        "username": "demoi",
+        "email": "demoisso73@hotmail.fr",
+        "city": "POISY",
+        "country": "FR",
+        "gender": "M"
+      },
+      {
+        "username": "demoi",
+        "email": "donov73@hotmail.fr",
+        "city": "THUSY",
+        "country": "FR",
+        "gender": "M"
+      },
+      {
+        "username": "Demoi",
+        "email": "gorlini.vanessa@orange.fr",
+        "country": "FR",
+        "gender": "F"
+      },
+      {
+        "username": "demoi",
+        "email": "demoi@74gmail.com",
+        "city": "POISY",
+        "country": "FR",
+        "gender": "M"
+      },
+      {
+        "username": "demoi",
+        "email": "demoi34@hotmail.fr",
+        "country": "FR",
+        "gender": "M"
+      },
+      {
+        "username": "Demoi",
+        "email": "e.daudey@yahoo.fr",
+        "city": "BESAN\u00c3\u00a7ON",
+        "country": "CH",
+        "gender": "F"
+      },
+      {
+        "username": "demoi",
+        "email": "demoi73@hotmail.com",
+        "city": "VIRIEU-LE-GRAND",
+        "country": "FR",
+        "gender": "F"
+      },
+      {
+        "username": "demoi",
+        "email": "fanianen@gmail.com",
+        "country": "BE",
+        "gender": "F"
+      }
+    ],
+    "1233_SOULSPLIT_COM_224K_GAMING_012013": [
+      {
+        "username": "demoi",
+        "lastip": "72.10.90.110",
+        "hash": "691ab698a43fd6443f845ccd2b7f8f1607a14aee"
+      }
+    ],
+    "1182_BUKALAPAK_COM_13M_COMMERCE_032019": [
+      {
+        "username": "demoi",
+        "email": "nmulyani72@yahoo.com",
+        "hash": "$2a$10$XhLRdc/DJwFpa959iSbOYuRodPMZCRuwmlPWmRsMRDAcTy33Fap/u",
+        "salt": "U0lREnCxDP8c6fBk5d",
+        "name": "Nursari Rachmawati"
+      }
+    ],
+    "1158_HJEDD_COM_12M_ADULT_072022": [
+      {
+        "username": "demoi",
+        "email": "201973092@qq.com",
+        "lastip": "59.53.210.172",
+        "hash": "$2a$10$yfn8CRc1P10jnr7yO1weNe2ouHUc8/x6mt9YSIOAOFB6lGo2cnIZW",
+        "uid": "12673652"
+      }
+    ],
+    "1152_KANEVA_COM_3911K_GAMING_072016": [
+      {
+        "username": "demOi",
+        "email": "dj_mihaela2000@yahoo.com",
+        "hash": "0D2315D8CE13E8CBD6F9D690A04BE16B",
+        "salt": "E1F6hzdUlxFl",
+        "uid": "4689969"
+      }
+    ],
+    "1122_ESKIMI_COM_25M_ADVERTISING_022012": [
+      {
+        "username": "Demoi",
+        "hash": "aba3941d148e5a7150572318caede992",
+        "id": "22690689",
+        "created": "1464399290",
+        "country": "pg"
+      }
+    ],
+    "1101_POSHMARK_COM_34M_MARKETPLACE_2018": [
+      {
+        "username": "demoi",
+        "email": "ashimawillett@gmail.com",
+        "hash": "$2a$10$NQ.kapZZJxGinpt3vjePvOWVMeerzqaF5oKdqrnDmvJlGiduAdxrW",
+        "unparsed": ":::nspam:act:::::::::::::::::::\r"
+      }
+    ],
+    "1059_DIVXSUBTITLES_COM_778K_ENTERTAINMENT_2010": [
+      {
+        "username": "demoi",
+        "email": "junkie005@hotmail.com",
+        "password": "081002",
+        "id": "592111"
+      }
+    ],
+    "1041_INTERPALS_NET_3450K_SOCIAL_2015": [
+      {
+        "username": "Demoi",
+        "email": "damian_m91@o2.pl",
+        "hash": "$2y$10$FZpr/Tz6uAU6a7lNhg0Zx.1EHOCglMS12MdZBJAHNzYo.v65cuw1.",
+        "salt": "DSq5oG9XkixFLhyjF3tf9/0/Uy794hosKInA05jHhQU=",
+        "name": "Demoi",
+        "city": "Bydgoszcz",
+        "country": "Poland"
+      }
+    ],
+    "1019_JD_COM_87M_STORE_2013": [
+      {
+        "username": "demoi",
+        "email": "sqrpastry@gmail.com",
+        "hash": "e5fe55db75fd29a03d930b5fc32f35d86bb8c1ee",
+        "name": "\u5434\u5c18"
+      }
+    ],
+    "1007_READNOVEL_COM_19M_PUBLISHER_2016": [
+      {
+        "username": "demoi",
+        "email": "285987123@qq.com",
+        "hash": "670b14728ad9902aecba32e22fa4f6bd",
+        "id": "6600914"
+      }
+    ],
+    "0994_PS3HAX_NET_447K_HACKING_072015": [
+      {
+        "username": "demoi",
+        "email": "devneilm@yahoo.com",
+        "lastip": "208.163.34.202",
+        "hash": "92da090a6e49593622fe0d9117de488f",
+        "salt": ":g\"<Fa&uzV76%V`z*wC3Bvc9J7Y-DN"
+      }
+    ],
+    "0981_WISHBONE_IO_40M_SOCIAL_012020": [
+      {
+        "username": "demoi",
+        "email": "dkilburn805@gmail.com",
+        "hash": "32477693d13f104808d32e6b92da4869"
+      }
+    ],
+    "0980_TGBUS_COM_12M_GAMING_092017": [
+      {
+        "username": "demoi",
+        "email": "something_@126.com",
+        "hash": "222b83587a0e38a273289a73f7659cce",
+        "salt": "168a54"
+      }
+    ],
+    "0973_TUNNGLE_NET_8M_GAMING_2016": [
+      {
+        "username": "DeMoi",
+        "email": "demoi@hotmail.de",
+        "lastip": "79.203.231.225",
+        "hash": "32e82615c73d23c1bad60d734e9cf4e9",
+        "salt": "dOFvF"
+      }
+    ],
+    "0950_DAILYQUIZ_ME_12M_EDU_012021": [
+      {
+        "username": "demoi",
+        "email": "aleksabrat1122@gmail.com",
+        "lastip": "178.223.139.144",
+        "password": "redbully777",
+        "uid": "12130919",
+        "regdate": "2018-04-06 15:19:07\r"
+      }
+    ],
+    "0904_XPGAMESAVES_COM_890K_GAMING_032019": [
+      {
+        "username": "Demoi",
+        "email": "ei_suikiele@hotmail.com",
+        "lastip": "24.119.32.116",
+        "hash": "08fc32e64fc0b3c25a7972ddd12edf91",
+        "salt": "=_e#h"
+      }
+    ],
+    "0813_ARMORGAMES_COM_11M_GAMING_012019": [
+      {
+        "username": "DeMoi",
+        "email": "tobiaspocksteen@gmail.com",
+        "lastip": "188.180.113.14",
+        "hash": "fc81d8a3dd3d2b026da1c297170a669469285db3",
+        "id": "5245912",
+        "uid": "93e0e52bd2f0734d77f66db8584e3d6b"
+      }
+    ],
+    "0799_LIVEJOURNAL_COM_33M_SOCIAL_2014": [
+      {
+        "username": "demoi",
+        "email": "robotspeeed@hotmail.com",
+        "password": "zmiejkoma674"
+      }
+    ],
+    "0798_MYFITNESSPAL_COM_144M_FITNESS_022018": [
+      {
+        "username": "demoi",
+        "email": "i.demontigny@live.ca",
+        "lastip": "205.205.200.126",
+        "hash": "3a58e120a1d4c075ae536623714048edbcd3148e"
+      }
+    ],
+    "0797_CANVA_COM_133M_DESIGN_052019": [
+      {
+        "username": "demoi",
+        "email": "chenchen.woo@gmail.com",
+        "name": "demoi",
+        "id": "23080"
+      }
+    ],
+    "0656_FUNIMATION_COM_3M_STREAMING_072016": [
+      {
+        "username": "demoi",
+        "email": "demoi-23@hotmail.com",
+        "hash": "3648be94541acf94e66eca97033a114f",
+        "salt": "IdX0(8CY$WldoBbOkzP~k-!ODcvx@q"
+      }
+    ],
+    "0645_ZYNGA_COM_202M_GAMING_092019": [
+      {
+        "username": "DeMoi",
+        "email": "zdc_cdemois@hotmail.com",
+        "salt": "87b4399f79bcf56a7db67304e826f68be5aed43c",
+        "created": "2012-01-24 01:41:08"
+      }
+    ],
+    "0643_ADULTFRIENDFINDER_COM_220M_DATING_2016": [
+      {
+        "username": "demoi",
+        "email": "bovaithep@yahoo.com@deleted2.com",
+        "hash": "a169e2e33efe3b1ac910ea3bfbee9ce5ce0e1fa7"
+      }
+    ],
+    "0642_DUBSMASH_COM_123M_SOCIAL_122018": [
+      {
+        "username": "demoi",
+        "email": "lettsomedemoi@hotmail.com",
+        "hash": "pbkdf2_sha256$15000$uWWoqIkM3kcq$lBxzdtNJeMH0srimvvRwwfcSE9MFcXCVTpMj1ARuSfQ="
+      }
+    ],
+    "0641_MYSPACE_COM_357M_SOCIAL_2008": [
+      {
+        "username": "demoi",
+        "email": "ladyluck5@myspace.com",
+        "hash": "2EDF0D43AB1EF058902E24A56AC32416016F9A85\r"
+      }
+    ],
+    "0626_STRONGHOLDKINGDOMS_COM_5M_GAMING_2018": [
+      {
+        "username": "demoi",
+        "email": "demo.ira11@maill.ru",
+        "hash": "71a6e761a3f782422a5e4186ccbf5bd65dc39782",
+        "salt": "giL2sG33kJ"
+      }
+    ],
+    "0530_ISPEAK_CN_10M_SOCIAL_2011": [
+      {
+        "username": "demoi",
+        "email": "sqrpastry@gmail.com",
+        "password": "demoi4958"
+      }
+    ],
+    "0526_TARINGA_NET_28M_SOCIAL_2017": [
+      {
+        "username": "demoi",
+        "email": "Moises_hernandezbelmonte@hotmail.com",
+        "hash": "c88c5a546545cc0f452b177cf59a21ea"
+      }
+    ],
+    "0524_CSDN_NET_6M_SOFTWARE_2011": [
+      {
+        "username": "demoi",
+        "email": "zczip@163.com",
+        "password": "32001126"
+      }
+    ],
+    "0432_FLING_COM_39M_DATING_2011": [
+      {
+        "username": "demoi",
+        "email": "young1money@hotmail.com",
+        "lastip": "173.34.166.19",
+        "hash": "f962b6cc609fadca82424e42ce255410",
+        "password": "2010free",
+        "gender": "MAN"
+      }
+    ],
+    "0422_RAMBLER_RU_91M_EMAIL_2012": [
+      {
+        "username": "demoi",
+        "email": "demoi@rambler.ru",
+        "password": "110950"
+      }
+    ],
+    "0353_PSXSCENE_COM_364K_GAMING_2016": [
+      {
+        "username": "demoi",
+        "email": "devneilm@yahoo.com",
+        "hash": "f9658998bcd19a9f79576ea385312c25",
+        "salt": "8%WJC6cc2{pKEgm|hTXPzZW{V),B;]"
+      }
+    ],
+    "0315_LAST_FM_41M_MUSIC_2012": [
+      {
+        "username": "demoi",
+        "email": "ellimeow@netscape.net",
+        "hash": "c741bb628f87eb96bcc7f39c7b5ea07b",
+        "regdate": "2005-04-07 01:11:16f"
+      }
+    ],
+    "0310_17_MEDIA_26M_SOCIAL_2016": [
+      {
+        "username": "demoi",
+        "email": "309260575@qq.com",
+        "hash": "df306a6bbb2b7942c167249e8b851eb7"
+      }
+    ],
+    "0309_000WEBHOST_COM_13M_HOSTING_032015": [
+      {
+        "username": "demoi",
+        "email": "trevortd10@gmail.com",
+        "lastip": "74.195.196.251",
+        "password": "trevor1"
+      }
+    ],
+    "0117_ZOOSK_COM_57M_DATING_2011": [
+      {
+        "username": "demoi",
+        "email": "patricia0312@orange.fr",
+        "hash": "66e1654e728fc8e40fd1aae210f714f5\r"
+      }
+    ],
+    "0077_WEHEARTIT_COM_9M_SOCIAL_112013": [
+      {
+        "username": "demoi",
+        "email": "demibrummel@msn.com",
+        "hash": "c481626841d92e5ed1c64ced1247f8974b75aebcd32541eb7318b984dbfa61ad",
+        "uid": "11124711"
+      }
+    ],
+    "0070_DAILYMOTION_COM_87M_ENTERTAINMENT_2017": [
+      {
+        "username": "demoi",
+        "email": "saleh_8_7@hotmail.com"
+      }
+    ],
+    "0069_EDMODO_COM_77M_EDUCATION_2017": [
+      {
+        "username": "demoi",
+        "email": "sylvie.altarac@gmail.com",
+        "hash": "$826y4$31226$dObD2cfyeO3DbYe14Y0jcVci2O4T1c8y7Y7jfF6jaN2ecv9M0pbkeEjk7er5SFLi.IBdvH8GmAatvAC"
+      }
+    ]
+  }
+}
