@@ -1,0 +1,25 @@
+    "1209_LOVEPLANET_RU_20M_DATING_012015": [
+      {
+        "username": "ujant",
+        "email": "solowaye@rambler.ru",
+        "password": "4133solo"
+      }
+    ],
+    "0978_500PX_COM_14M_PHOTOS_072018": [
+      {
+        "username": "ujant",
+        "email": "ujant@gmx.de",
+        "hash": "48f413416eed14f0f0f567573e5477666407961021941c3eeca9010b49b8f7d97ffc63f8bfeb68e12ab2a513527e1d7b9dfa4270809e0e3d483222e094fa0ac7",
+        "salt": "bTcMq24BA9Eacpb2fWVR"
+      }
+    ],
+    "0882_NEOPETS_COM_68M_GAMING_052013": [
+      {
+        "username": "ujant",
+        "password": "jbtc",
+        "country": "EN",
+        "gender": "M"
+      }
+    ]
+  }
+}
