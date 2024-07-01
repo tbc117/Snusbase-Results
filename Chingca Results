@@ -1,0 +1,46 @@
+    "0799_LIVEJOURNAL_COM_33M_SOCIAL_2014": [
+      {
+        "username": "chingca",
+        "email": "y_ca106@yahoo.com.hk",
+        "password": "ca1006"
+      }
+    ],
+    "0798_MYFITNESSPAL_COM_144M_FITNESS_022018": [
+      {
+        "username": "chingca",
+        "email": "y_ca106@yahoo.com.hk",
+        "lastip": "203.145.92.18",
+        "hash": "3adea9ba50fea03bf48b230d7135bd2d89d0136d"
+      }
+    ],
+    "0686_WATTPAD_COM_275M_SOCIAL_062020": [
+      {
+        "username": "chingca",
+        "email": "chingcajm@gmail.com",
+        "lastip": "112.198.79.224",
+        "hash": "dc8325a9a7c196e4364131b9fe076848bedc0445531633aeab4edf9ea1fdf298"
+      }
+    ],
+    "0325_NEXUSMODS_COM_6M_GAMING_2015": [
+      {
+        "username": "chingca",
+        "email": "jsan8529@naver.com",
+        "hash": "8c137f111a60aae91d39fe284fceca7f",
+        "salt": "/:iGN"
+      }
+    ],
+    "0070_DAILYMOTION_COM_87M_ENTERTAINMENT_2017": [
+      {
+        "username": "chingca",
+        "email": "roxy_gurl52@yahoo.com"
+      }
+    ],
+    "0069_EDMODO_COM_77M_EDUCATION_2017": [
+      {
+        "username": "chingca",
+        "email": "asmachingca@yahoo.com",
+        "hash": "$826y4$31226$dMbj2MfyeN3DbYe54M0zckc22N4W1Q8z7Y72fR6haM2.ca9c0.bkM80l/Idl./g2uEmMkQBOaDtaeea"
+      }
+    ]
+  }
+}
