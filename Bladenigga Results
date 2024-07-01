@@ -1,0 +1,19 @@
+    "0660_SUBAGAMES_COM_6M_GAMING_2017": [
+      {
+        "username": "bladenigga",
+        "email": "kingsavaske@yahoo.com",
+        "password": "123456",
+        "name": "m2419207"
+      }
+    ],
+    "0645_ZYNGA_COM_202M_GAMING_092019": [
+      {
+        "username": "BladeNigga",
+        "email": "zyngawf_62512381",
+        "hash": "5b783d2682784e332310daa363dbdb2d11013e2f",
+        "salt": "41febb1266e145116d36d4e8f19785d739fdcf88",
+        "created": "2014-02-17 18:39:40"
+      }
+    ]
+  }
+}
