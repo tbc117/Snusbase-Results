@@ -1,0 +1,139 @@
+    "1600_CFIRE_MAILRU_13M_GAMING_082016": [
+      {
+        "username": "brother05",
+        "email": "5969999@mail.ru",
+        "hash": "007fbae31d3d07891afba635b5c4b97c",
+        "salt": "XY",
+        "uid": "6903860"
+      }
+    ],
+    "1122_ESKIMI_COM_25M_ADVERTISING_022012": [
+      {
+        "username": "Brother05",
+        "hash": "7ee4e9d0b7718689f3234fb6d8124569",
+        "id": "6455387",
+        "created": "1335087660",
+        "country": "ng"
+      }
+    ],
+    "1101_POSHMARK_COM_34M_MARKETPLACE_2018": [
+      {
+        "username": "brother05",
+        "email": "meagen.anderson@gmail.com",
+        "hash": "$2a$10$Ewx6cWlffh/vfx0kqqqmI.G5iKTgz6/19m9QOJkYFrdqFZIlc/iNC",
+        "name": "Meagen Anderson",
+        "gender": "female"
+      }
+    ],
+    "0986_PASSTOWN_ORG_24K_SECURITY_102020": [
+      {
+        "username": "brother05",
+        "hash": "1486d5ed29c1141529810ab1f479b441",
+        "salt": "PcG0%D,5YY{CvLV8KM722^sK;UzT\"N",
+        "uid": "112"
+      }
+    ],
+    "0950_DAILYQUIZ_ME_12M_EDU_012021": [
+      {
+        "username": "brother05",
+        "email": "vgeradone@gmail.com",
+        "lastip": "151.42.251.151",
+        "password": "geranca56",
+        "uid": "10488949",
+        "regdate": "2017-12-19 12:41:31\r"
+      }
+    ],
+    "0882_NEOPETS_COM_68M_GAMING_052013": [
+      {
+        "username": "brother05",
+        "email": "gflimon@worldnet.att.net",
+        "lastip": "none",
+        "password": "monster",
+        "name": "noah  limon",
+        "country": "US",
+        "gender": "M"
+      }
+    ],
+    "0799_LIVEJOURNAL_COM_33M_SOCIAL_2014": [
+      {
+        "username": "brother05",
+        "email": "7771928@mail.ru",
+        "password": "PNBEUA46"
+      }
+    ],
+    "0686_WATTPAD_COM_275M_SOCIAL_062020": [
+      {
+        "username": "brother05",
+        "email": "mkurchatova29@gmail.com",
+        "lastip": "5.18.174.82",
+        "hash": "$2y$10$ANQTI9gGF7pzgJkVIHD5uOjkGuQU6eLGLO9jY89XbaRBOFKkGayC6",
+        "name": "brother05"
+      }
+    ],
+    "0647_CFIRE_MAILRU_13M_GAMING_082018": [
+      {
+        "username": "brother05",
+        "email": "5969999@mail.ru",
+        "hash": "007fbae31d3d07891afba635b5c4b97c"
+      }
+    ],
+    "0645_ZYNGA_COM_202M_GAMING_092019": [
+      {
+        "username": "Brother05",
+        "email": "corbin299@yahoo.com",
+        "salt": "4c425f91f706faea6a8b6d57f41e4ae0cc58e7d3",
+        "created": "2011-04-19 18:29:02"
+      }
+    ],
+    "0642_DUBSMASH_COM_123M_SOCIAL_122018": [
+      {
+        "username": "brother05",
+        "email": "fitchwf2222@gmail.com",
+        "hash": "pbkdf2_sha256$20000$5O07Zj6CSKuk$GYqrO4gJL+D9tnorflIb3byXi8p1iA9UMzy2MgdFCzM="
+      }
+    ],
+    "0433_IMESH_COM_51M_MUSIC_2013": [
+      {
+        "username": "brother05",
+        "email": "paul_ernestoni@hotmail.com",
+        "lastip": "127.255.255.255",
+        "hash": "db99b6b742fd29fda8c1bbac7eeca2e22667726"
+      }
+    ],
+    "0422_RAMBLER_RU_91M_EMAIL_2012": [
+      {
+        "username": "brother05",
+        "email": "brother05@rambler.ru",
+        "password": "liverpool"
+      }
+    ],
+    "0386_TECHNICPACK_NET_238K_MINECRAFT_2015": [
+      {
+        "username": "brother05",
+        "email": "amcbenz41@yahoo.com"
+      }
+    ],
+    "0117_ZOOSK_COM_57M_DATING_2011": [
+      {
+        "username": "brother05",
+        "email": "natashalizzy@yahoo.co.uk",
+        "hash": "33e38fffbc7190695a442717c29d9ca6\r"
+      }
+    ],
+    "0069_EDMODO_COM_77M_EDUCATION_2017": [
+      {
+        "username": "Brother05",
+        "email": "el_pineo08@hotmail.com",
+        "hash": "$826y4$31226$dObD2Uf2eM32bQex4N0zcBcj2Z4G1I857Z7DfF6maO2.c09b0nbbznnhltzjfSS8bpTphRgapDnZsr6"
+      }
+    ],
+    "0004_SHOTBOW_NET_1M_GAMING_052016": [
+      {
+        "username": "brother05",
+        "email": "adamharris99@gmail.com",
+        "hash": "780c6886c9fa680bd9ea35a29a1116169307a77bb95574acf776231e3474a670",
+        "salt": "e70e35ee61a6bacc99fbd93f24e73439514d670583ab19aa1b77e11fc94dbe3a"
+      }
+    ]
+  }
+}
