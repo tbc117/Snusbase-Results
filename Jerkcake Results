@@ -1,0 +1,40 @@
+    "0645_ZYNGA_COM_202M_GAMING_092019": [
+      {
+        "username": "jerkcake",
+        "email": "williamclakeii@yahoo.com",
+        "salt": "b4fd768e76733fd0103401390e0d59acc34c6f77",
+        "created": "2012-03-14 22:48:54"
+      }
+    ],
+    "0459_WEHEARTHIT_COM_1M_SOCIAL_112013": [
+      {
+        "username": "jerkcake",
+        "email": "jerkcake@gmail.com",
+        "password": "jc18jo"
+      }
+    ],
+    "0395_TOTALJERKFACE_COM_6M_GAMING_2010": [
+      {
+        "username": "JerkCake",
+        "uid": "5890694",
+        "regdate": "July 06, 2014"
+      }
+    ],
+    "0315_LAST_FM_41M_MUSIC_2012": [
+      {
+        "username": "jerkcake",
+        "email": "jerkcake@gmail.com",
+        "hash": "b7e456a1df473a4e455399ef06fdf10b",
+        "regdate": "2009-11-22 14:47:42f"
+      }
+    ],
+    "0077_WEHEARTIT_COM_9M_SOCIAL_112013": [
+      {
+        "username": "jerkcake",
+        "email": "jerkcake@gmail.com",
+        "hash": "31581d13d2eabb8060a711528b9065a7",
+        "uid": "90601"
+      }
+    ]
+  }
+}
